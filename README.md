@@ -18,7 +18,8 @@ And for each label there was 30,000 text
 And to make my model training easy and also as mention in the assignment “i have to
 take a dataset of minimum of 1,000 each for label” i reduced my dataset for 2,000 for
 each label so at present i trained the model with total of 8,000 line
-![image](https://user-images.githubusercontent.com/110291143/224363637-d2cfef9c-fedc-4add-bd3e-daa5a32e55bb.png)![image](https://user-images.githubusercontent.com/110291143/224363660-44f86d3a-7a13-43ab-9f63-a57a1ba5810e.png)
+![image](https://user-images.githubusercontent.com/110291143/224363637-d2cfef9c-fedc-4add-bd3e-daa5a32e55bb.png)
+![image](https://user-images.githubusercontent.com/110291143/224363660-44f86d3a-7a13-43ab-9f63-a57a1ba5810e.png)
 
 At start there were 3 column in the dataset names [class Index, Title, Description]
 The Title and Description is merged to a single column names Text and Class Index
